@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: 6d3513cac74bcef409f59a1dc4afd24f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3420713789700216317
+    second: bird_flight_6frames_0
+  - first:
+      213: 7916229606065707598
+    second: bird_flight_6frames_1
+  - first:
+      213: 1412779633980394598
+    second: bird_flight_6frames_2
+  - first:
+      213: 86557145188741518
+    second: bird_flight_6frames_3
+  - first:
+      213: -8256453032080652743
+    second: bird_flight_6frames_4
+  - first:
+      213: -6983253411338041160
+    second: bird_flight_6frames_5
+  - first:
+      213: 4512348635388544194
+    second: bird_flight_6frames_6
+  - first:
+      213: 2832266407806303403
+    second: bird_flight_6frames_7
+  - first:
+      213: 7770485471408356227
+    second: bird_flight_6frames_8
+  - first:
+      213: 8670071208144360302
+    second: bird_flight_6frames_9
+  - first:
+      213: -2508089583251578199
+    second: bird_flight_6frames_10
+  - first:
+      213: 2130756188930513864
+    second: bird_flight_6frames_11
+  - first:
+      213: 357177986750592763
+    second: bird_flight_6frames_12
+  - first:
+      213: -4278800019305133058
+    second: bird_flight_6frames_13
+  - first:
+      213: 5125146896740677848
+    second: bird_flight_6frames_14
+  - first:
+      213: -7825367710362925864
+    second: bird_flight_6frames_15
+  - first:
+      213: 992584903016762483
+    second: bird_flight_6frames_16
+  - first:
+      213: -2577975580714236383
+    second: bird_flight_6frames_17
+  - first:
+      213: -4876143799433338451
+    second: bird_flight_6frames_18
+  - first:
+      213: 6274310673808471134
+    second: bird_flight_6frames_19
+  - first:
+      213: 7150745565494216643
+    second: bird_flight_6frames_20
+  - first:
+      213: 519849068179602494
+    second: bird_flight_6frames_21
+  - first:
+      213: 1069487210367914942
+    second: bird_flight_6frames_22
+  - first:
+      213: 7314406254161801634
+    second: bird_flight_6frames_23
+  - first:
+      213: -4031341169717015771
+    second: bird_flight_6frames_24
+  - first:
+      213: -5622734991479463790
+    second: bird_flight_0
+  - first:
+      213: -5373961098594777372
+    second: bird_flight_1
+  - first:
+      213: -268030772611437944
+    second: bird_flight_2
+  - first:
+      213: 4279800039113611093
+    second: bird_flight_3
+  - first:
+      213: -2257291336967351635
+    second: bird_flight_4
+  - first:
+      213: 5014102485272185299
+    second: bird_flight_5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bird_flight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 362
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29025b6d05808f1b0800000000000000
+      internalID: -5622734991479463790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_flight_1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 362
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e68d717adadb65b0800000000000000
+      internalID: -5373961098594777372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_flight_2
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 362
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a2f91be63c74cf0800000000000000
+      internalID: -268030772611437944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_flight_3
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 362
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557d111d577e46b30800000000000000
+      internalID: 4279800039113611093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_flight_4
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 0
+        width: 362
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da29e791d7d7ca0e0800000000000000
+      internalID: -2257291336967351635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird_flight_5
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 0
+        width: 362
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d94d0ef4aba59540800000000000000
+      internalID: 5014102485272185299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bird_flight_0: -5622734991479463790
+      bird_flight_1: -5373961098594777372
+      bird_flight_2: -268030772611437944
+      bird_flight_3: 4279800039113611093
+      bird_flight_4: -2257291336967351635
+      bird_flight_5: 5014102485272185299
+      bird_flight_6frames_0: 3420713789700216317
+      bird_flight_6frames_1: 7916229606065707598
+      bird_flight_6frames_10: -2508089583251578199
+      bird_flight_6frames_11: 2130756188930513864
+      bird_flight_6frames_12: 357177986750592763
+      bird_flight_6frames_13: -4278800019305133058
+      bird_flight_6frames_14: 5125146896740677848
+      bird_flight_6frames_15: -7825367710362925864
+      bird_flight_6frames_16: 992584903016762483
+      bird_flight_6frames_17: -2577975580714236383
+      bird_flight_6frames_18: -4876143799433338451
+      bird_flight_6frames_19: 6274310673808471134
+      bird_flight_6frames_2: 1412779633980394598
+      bird_flight_6frames_20: 7150745565494216643
+      bird_flight_6frames_21: 519849068179602494
+      bird_flight_6frames_22: 1069487210367914942
+      bird_flight_6frames_23: 7314406254161801634
+      bird_flight_6frames_24: -4031341169717015771
+      bird_flight_6frames_3: 86557145188741518
+      bird_flight_6frames_4: -8256453032080652743
+      bird_flight_6frames_5: -6983253411338041160
+      bird_flight_6frames_6: 4512348635388544194
+      bird_flight_6frames_7: 2832266407806303403
+      bird_flight_6frames_8: 7770485471408356227
+      bird_flight_6frames_9: 8670071208144360302
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -67,5 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "flayyp bird.slnx"
+    "dotnet.defaultSolution": "flayyp bird.slnx",
+    "Codegeex.CompletionDelay": 0.3
 }
